@@ -1,5 +1,3 @@
-# blaze
-
 # Build and run
 
 Use the clone from VCS option in intelliJ
